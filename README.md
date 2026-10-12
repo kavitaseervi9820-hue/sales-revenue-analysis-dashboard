@@ -10,3 +10,7 @@ This repository contains my weekly data analytics projects completed during the 
 - [Week 4: Data Cleaning & Reporting Automation](Week-4-Data-Cleaning-Reporting-Automation/)
 
 Each folder contains the files and documentation for that task.
+
+
+Author
+Kavita Choudhary
