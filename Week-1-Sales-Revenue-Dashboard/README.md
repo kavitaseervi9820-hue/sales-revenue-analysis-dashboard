@@ -4,7 +4,7 @@ An interactive Power BI dashboard for exploring sales performance, orders, quant
 
 ## Dashboard preview
 
-![Sales & Revenue Analysis Dashboard](dashboard-preview.png)
+![Sales & Revenue Analysis Dashboard](screenshots/dashboard-preview.png)
 
 ## Highlights
 
@@ -20,7 +20,7 @@ The preview shows reported totals of **120.77M** in sales, **3K** orders, **7K**
 ## Files
 
 - `Sales-Revenue-Analysis.pbix` — Power BI report (add this file to the repository)
-- `dashboard-preview.png` — dashboard screenshot
+- `screenshots/dashboard-preview.png` — dashboard screenshot
 - `[dataset filename].xlsx` — optional source dataset (add if you intend to share it)
 
 ## Open the report
